@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "1. 자료구조란 무엇인가"
             }
+          },
+          {
+            "id": "405c5776737fa2eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자료구조/1. 자료구조란 무엇인가.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 자료구조란 무엇인가"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,10 +157,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6bb717118c1b4ed",
+  "active": "1a43b8375a432cc5",
   "lastOpenFiles": [
-    "Image/Pasted image 20250818165230.png",
+    "테스트 파일.md",
     "자료구조/1. 자료구조란 무엇인가.md",
+    "Image/Pasted image 20250818165230.png",
     "README.md",
     "Templates/UnderlineTemplate.md",
     "Templates/DateTemplate.md",
@@ -152,7 +169,6 @@
     "Image",
     "Image/Pasted image 20250818102325.png",
     "Welcome.md",
-    "무제 파일.md",
     "자료구조"
   ]
 }
