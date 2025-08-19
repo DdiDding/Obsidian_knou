@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +158,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a43b8375a432cc5",
+  "active": "9901a9a9fc335f93",
   "lastOpenFiles": [
+    "Image/Pasted image 20250819132655.png",
     "테스트 파일.md",
     "자료구조/1. 자료구조란 무엇인가.md",
     "Image/Pasted image 20250818165230.png",
