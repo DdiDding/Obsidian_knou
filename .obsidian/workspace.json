@@ -11,12 +11,15 @@
             "id": "e6bb717118c1b4ed",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Image/Pasted image 20250818165230.png"
+                "file": "자료구조/1. 자료구조란 무엇인가.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250818165230"
+              "icon": "lucide-file",
+              "title": "1. 자료구조란 무엇인가"
             }
           }
         ]
@@ -86,39 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4388e7351257348",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "자료구조/무제 파일.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
-            }
-          },
-          {
-            "id": "777624cf4c2dc8a8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "자료구조/무제 파일.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
-            }
-          },
-          {
             "id": "542599161afd47ab",
             "type": "leaf",
             "state": {
@@ -132,18 +102,6 @@
             }
           },
           {
-            "id": "69d91807e681d1bd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "자료구조/무제 파일.md"
-              },
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
-            }
-          },
-          {
             "id": "bcd63da14a757fd4",
             "type": "leaf",
             "state": {
@@ -152,9 +110,19 @@
               "icon": "calendar-days",
               "title": "Date Calendar"
             }
+          },
+          {
+            "id": "1a43b8375a432cc5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -169,17 +137,18 @@
       "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "dd-calendar:DD Calendar": false
+      "dd-calendar:DD Calendar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcd63da14a757fd4",
+  "active": "e6bb717118c1b4ed",
   "lastOpenFiles": [
+    "Image/Pasted image 20250818165230.png",
     "자료구조/1. 자료구조란 무엇인가.md",
     "README.md",
     "Templates/UnderlineTemplate.md",
     "Templates/DateTemplate.md",
     "Templates",
-    "Image/Pasted image 20250818165230.png",
     "Image",
     "Image/Pasted image 20250818102325.png",
     "Welcome.md",
