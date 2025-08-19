@@ -1,0 +1,15 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "리디바탕",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSizeAction": true,
+  "baseFontSize": 15,
+  "textFontFamily": "리디바탕",
+  "enabledCssSnippets": [
+    "ribbon_textcolor",
+    "List-number-color"
+  ],
+  "showViewHeader": true,
+  "accentColor": ""
+}

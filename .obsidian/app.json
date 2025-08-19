@@ -1,0 +1,15 @@
+{
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "showRibbon": true,
+  "showInlineTitle": true,
+  "defaultViewMode": "source",
+  "foldHeading": true,
+  "smartIndentList": false,
+  "userIgnoreFilters": [
+    "Image/",
+    "Templates/"
+  ],
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
+}

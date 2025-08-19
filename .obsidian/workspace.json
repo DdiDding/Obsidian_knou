@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "474d53400959f5e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2629318979eb1bd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6bb717118c1b4ed",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Image/Pasted image 20250818165230.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250818165230"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2501ca7ecb3bb611",
+    "type": "split",
+    "children": [
+      {
+        "id": "63fa6e9f3c2696ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9901a9a9fc335f93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "9d0adfee03c14f63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "234c9fb2326a2250",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9de24b3850dfa1bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "55166b5dce8b60d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4388e7351257348",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "자료구조/무제 파일.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
+            }
+          },
+          {
+            "id": "777624cf4c2dc8a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "자료구조/무제 파일.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
+            }
+          },
+          {
+            "id": "542599161afd47ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "69d91807e681d1bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "자료구조/무제 파일.md"
+              },
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
+            }
+          },
+          {
+            "id": "bcd63da14a757fd4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar-view",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Date Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "dd-calendar:DD Calendar": false
+    }
+  },
+  "active": "bcd63da14a757fd4",
+  "lastOpenFiles": [
+    "자료구조/1. 자료구조란 무엇인가.md",
+    "README.md",
+    "Templates/UnderlineTemplate.md",
+    "Templates/DateTemplate.md",
+    "Templates",
+    "Image/Pasted image 20250818165230.png",
+    "Image",
+    "Image/Pasted image 20250818102325.png",
+    "Welcome.md",
+    "무제 파일.md",
+    "자료구조"
+  ]
+}

@@ -1,0 +1,10 @@
+/* 🔵 Reading Mode (Preview) */
+.markdown-preview-view ol > li::marker {
+  color: #ff5555 !important; /* 원하는 색상 */
+  font-weight: bold;
+}
+
+/* 🟣 Live Preview (Edit Mode) */
+.cm-line.HyperMD-list-line {
+  --list-marker-color: #ff5555 !important;
+}

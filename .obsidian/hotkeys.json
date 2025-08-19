@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:Templates/UnderlineTemplate.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ]
+}
